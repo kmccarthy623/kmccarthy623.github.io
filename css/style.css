@@ -16,6 +16,7 @@ h1 {
 
 h2 {
 	  margin: 40px 0px 0px 0px;
+      color: (255,105,180);
       border: 7px white;
       border-radius: 20px;
       background-color:(255,105,180);
@@ -23,7 +24,7 @@ h2 {
 
 
 p {
-  font-size:22;
+  font-size:18;
   text-align:; center;
   color: rgb(255-20-147);
 }
